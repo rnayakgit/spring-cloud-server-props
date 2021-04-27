@@ -1,4 +1,3 @@
-# spring-cloud-server-props
 <block>
 application.yaml 
 server:
@@ -9,7 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/rnayakgit/spring-cloud-server-props.git ## ti fetchs details from git.
-         ##collects properties details from application.yaml file like Profiles isn Spring boot.
+         collects properties details from application.yaml file like Profiles isn Spring boot.
 
         health:
           enabled: true
