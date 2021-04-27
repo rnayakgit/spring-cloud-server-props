@@ -1,7 +1,5 @@
 # spring-cloud-server-props
-
-
-<blockquote>
+<body>
 application.yaml 
 server:
   port: 8090
@@ -29,4 +27,4 @@ management:
       http://localhost:8090/SpringCloudConfigApplication/prod
       http://localhost:8090/SpringCloudConfigApplication/dafualt
       
-      </blockquote> 
+      </body>
